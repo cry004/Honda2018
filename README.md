@@ -1,10 +1,6 @@
-## Map page
+## Honda2018 page
 
 index.html
-
-##Detail page
-
-detail.html
 
 ```
 # css compile
